@@ -1,0 +1,8 @@
+Welcome, Michael Johnson!
+
+Your employee workspace has been created successfully.
+
+Username: michael_johnson
+Directory: ./output/employees/michael_johnson
+
+We are excited to have you onboard.

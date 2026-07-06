@@ -1,0 +1,8 @@
+Welcome, David Brown!
+
+Your employee workspace has been created successfully.
+
+Username: david_brown
+Directory: ./output/employees/david_brown
+
+We are excited to have you onboard.

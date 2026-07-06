@@ -8,12 +8,12 @@ mkdir -p "./logs"
 mkdir -p "$EMPLOYEE_DIR"
 
 log_message() {
-    local MESSAGE="\$1"
+    local MESSAGE="$1"
     echo "$(date '+%Y-%m-%d %H:%M:%S') - $MESSAGE" >> "$LOG_FILE"
 }
 
 generate_username() {
-    local FULL_NAME="\$1"
+    local FULL_NAME="$1"
     echo "$FULL_NAME" | tr '[:upper:]' '[:lower:]' | tr ' ' '_'
 }
 
@@ -44,7 +44,7 @@ while IFS= read -r EMPLOYEE_NAME || [ -n "$EMPLOYEE_NAME" ]; do
         continue
     fi
 
-    cat <<EOF > "$WELCOME_FILE"
+    cat <<EOM > "$WELCOME_FILE"
 Welcome, $EMPLOYEE_NAME!
 
 Your employee workspace has been created successfully.
@@ -53,7 +53,7 @@ Username: $USERNAME
 Directory: $USER_DIR
 
 We are excited to have you onboard.
-EOF
+EOM
 
     if [ $? -eq 0 ]; then
         echo "Created welcome message for: $EMPLOYEE_NAME"

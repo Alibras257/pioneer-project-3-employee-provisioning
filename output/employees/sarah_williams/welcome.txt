@@ -1,0 +1,8 @@
+Welcome, Sarah Williams!
+
+Your employee workspace has been created successfully.
+
+Username: sarah_williams
+Directory: ./output/employees/sarah_williams
+
+We are excited to have you onboard.
