@@ -1,0 +1,8 @@
+Welcome, John Doe!
+
+Your employee workspace has been created successfully.
+
+Username: john_doe
+Directory: ./output/employees/john_doe
+
+We are excited to have you onboard.

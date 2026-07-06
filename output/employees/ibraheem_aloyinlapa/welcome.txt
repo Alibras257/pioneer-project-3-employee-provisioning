@@ -1,0 +1,8 @@
+Welcome, Ibraheem Aloyinlapa!
+
+Your employee workspace has been created successfully.
+
+Username: ibraheem_aloyinlapa
+Directory: ./output/employees/ibraheem_aloyinlapa
+
+We are excited to have you onboard.

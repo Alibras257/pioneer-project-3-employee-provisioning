@@ -1,0 +1,8 @@
+Welcome, Jane Smith!
+
+Your employee workspace has been created successfully.
+
+Username: jane_smith
+Directory: ./output/employees/jane_smith
+
+We are excited to have you onboard.

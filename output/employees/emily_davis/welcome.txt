@@ -1,0 +1,8 @@
+Welcome, Emily Davis!
+
+Your employee workspace has been created successfully.
+
+Username: emily_davis
+Directory: ./output/employees/emily_davis
+
+We are excited to have you onboard.
