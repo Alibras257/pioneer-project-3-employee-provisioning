@@ -81,3 +81,4 @@ done < "$INPUT_FILE"
 
 echo "Employee provisioning completed."
 log_message "INFO: Employee provisioning completed"
+
